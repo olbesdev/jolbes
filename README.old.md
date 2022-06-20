@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @jolbes Jonathan Olbes
 - 👀 I'm interested in Front-End Web Developer
-- 🌱 I'm currently learning React JS
-- 💞️ I'm looking to collaborate on Web Dev Project
+- 🌱 I'm currently learning React JS 
+- 💞️ I'm looking to collaborate on Web Dev Project's
 - 📫 How to reach me j.olbes.co@gmail.com
 
 
