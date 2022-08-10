@@ -17,9 +17,9 @@
 <h2>I am learning all my dev language on "CoderHouse"  </h2>
 
 <ul>
-    <li><a href='https://www.coderhouse.com/certificados/6205c14a8856d8002860a818'>Desarrollo Web</a></li>
+    <li><a href='https://www.coderhouse.com.co/certificados/6205c14a8856d8002860a818'>Desarrollo Web</a></li>
     <li><a href='https://www.coderhouse.com.co/certificados/62630c2816a4110019d6c883'>JavaScript</a></li>
-    <li><a href='#'>React JS (Next week 🤟)</a></li>
+    <li><a href='https://www.coderhouse.com.co/certificados/62d54a5c800bc30024f66530'>React JS</a></li>
 </ul>
 
 
