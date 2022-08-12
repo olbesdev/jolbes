@@ -8,7 +8,7 @@
 
 - 💞️ I'm looking to collaborate on Web Dev Project's
 
-- 📫 How to reach me j.olbes.co@gmail.com
+- 📫 How to reach me? olbesdev@gmail.com
 
 
 # Access to my certificates as Front-End Web Developer
